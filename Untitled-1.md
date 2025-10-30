@@ -39,3 +39,18 @@
 3 = Cunter Stikr 1.5
 4 , WoW of Worldcraft
 5 ) Medal of Honor
+
+
+
+
+
+
+
+
+
+**Christoffer´s top 5 lista.**
+1.Runesacpe
+3.Sea of thieves
+2.Soulmask
+4.BF6
+5.CS2
