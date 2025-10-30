@@ -17,6 +17,12 @@
                                                                     4 = World of Warcraft
                                                                     5 = Medal of Honor 
 
+                                                                   <<<Christoffer´s top 5 Spel>>>
+                                                                    1.Runesacpe
+                                                                    2.Soulmask
+                                                                    3.Sea of Thieves
+                                                                    4.Battlefield 6
+                                                                    5.Counter Strike 2
 
 
 
@@ -49,12 +55,6 @@
 
 
 
-**Christoffer´s top 5 lista.**
-1.Runesacpe
-3.Sea of thieves
-2.Soulmask
-4.BF6
-5.CS2
 
 
 
