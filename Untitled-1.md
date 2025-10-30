@@ -9,6 +9,13 @@
                                                                     4 = Ashes of Creation
                                                                     5 = Guild wars 2
 
+                                                                   <<<Andreas top 5 Spel>>>  
+                                                                   
+                                                                    1 = Elasto Mania
+                                                                    2 = Roller Coaster Tycoon
+                                                                    3 = Counter Strike 1.5
+                                                                    4 = World of Warcraft
+                                                                    5 = Medal of Honor 
 
 
 
@@ -33,12 +40,6 @@
 
 
 
-<<Andreas Favoriter>>
-1 &/ Elasto Mania
-2 = Roaler Coaster Tychoon
-3 = Cunter Stikr 1.5
-4 , WoW of Worldcraft
-5 ) Medal of Honor
 
 
 
