@@ -18,62 +18,17 @@
                                                                     5 = Medal of Honor 
 
                                                                    <<<Christoffer´s top 5 Spel>>>
-                                                                    1.Runesacpe
-                                                                    2.Soulmask
-                                                                    3.Sea of Thieves
-                                                                    4.Battlefield 6
-                                                                    5.Counter Strike 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                                                    
+                                                                    1 = Runescape
+                                                                    2 = Soulmask
+                                                                    3 = Sea of Thieves
+                                                                    4 = Battlefield 6
+                                                                    5 = Counter Strike 2
 
                                                                    <<<Ulfs top 5 Spel>>>              
- Nr 2 = Fynal F�ntasy VI
- Nr 1 = Planesccape Tornent
- nr 3 = Chr�n� Trogger
- Nr 5  =Illusjjon of Gajja
- Nr 4=  Final Flntasy IV
+                                                                    
+                                                                    1 = Planescape Torment
+                                                                    2 = Final Fantasy VI
+                                                                    3 = Chrono Trigger
+                                                                    4 = Final Fantasy IV
+                                                                    5 = Illusion of Gaia
